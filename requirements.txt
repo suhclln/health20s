@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+openpyxl
+flask>=2.3
+requests
+streamlit>=1.36
